@@ -26,7 +26,7 @@ namespace CoinToss
             {
                 guess = 1;
             }
-            else //if (ans.ToLower() == "tails")
+            else
             {
                 guess = 2;
             }
